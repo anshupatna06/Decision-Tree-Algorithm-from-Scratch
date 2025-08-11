@@ -27,7 +27,7 @@ To implement and visualize a Decision Tree model using the Titanic dataset. The 
    Selecting relevant features like `Pclass`, `Sex`, `Age`, etc.
 
 3. **Model Training**  
-   Using `DecisionTreeClassifier` from `sklearn`.
+   Using `DecisionTreeClassifier` from `Scratch`.
 
 4. **Evaluation**  
    - Accuracy Score  
